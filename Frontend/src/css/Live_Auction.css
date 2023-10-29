@@ -1,0 +1,17 @@
+.Live_Auction_Container{
+    height: 100%;
+    margin: 1rem;
+}
+
+
+.Auction_grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    justify-content: space-evenly;
+    gap:2rem
+}
+
+
+.Auction_card{
+    padding: 10px;
+}

@@ -1,0 +1,53 @@
+
+.AuctionItem_Container{
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.AuctionItem_card{
+    width: 50%;
+    height: auto;
+    padding: 2rem;
+
+}
+
+.Item_Question{
+    gap: 5rem;
+    display: flex;
+}
+
+.Item_Question{
+    margin: 10px 0;
+}
+
+.question{
+    width: 6rem;
+}
+
+
+.chat_section{
+    margin: 1rem;
+    padding: 1rem;
+    max-height: 10rem;
+    min-height: 10rem;
+    overflow-y: scroll;
+}
+
+.Message{
+    margin: 1px;
+}
+
+.input_chat_div{
+    width: 100%;
+    margin: 0 1rem ;
+    padding: 0  1rem 1rem 1rem;
+}
+
+.input_chat_div input{
+    width: 86%;
+    border-radius: 10px;
+}
+.input_chat_div button{
+    border-radius: 10px;
+}

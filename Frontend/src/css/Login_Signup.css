@@ -1,0 +1,52 @@
+.Background_Login_Signup{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);   height: 51rem;
+    padding-top: 12rem;
+
+
+}
+
+.Login_Signup_Container{
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.419);
+    border-radius: 10px;
+    box-shadow: 1px 1px 0px 0px;
+    background-color: white;
+}
+
+.Login_Signup_Heading{
+    font-size: larger;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.344);
+    padding-bottom: 2rem;
+}
+
+.Login_Signup_Details{
+    margin-top: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 1rem;
+}
+
+.input_Details{
+    width: 20rem;
+}
+
+.form_label{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.form_label span{
+    width: 10rem;
+}
+
+.Login_Signup_button{
+    border: none;
+    width: 50%;
+    background-color: rgba(45, 55, 197, 0.804);
+    border-radius: 10px;
+    color: white;
+}

@@ -1,0 +1,13 @@
+
+.Profile_info{
+    margin: 4rem;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    display:  flex;
+    gap: 5rem;
+}
+
+.profile_pic{
+    border: 1px solid black;
+    border-radius: 50%;
+}

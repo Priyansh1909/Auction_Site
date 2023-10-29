@@ -1,0 +1,19 @@
+.auction_add_div{
+    margin-top: 1rem;
+    margin-right: 1rem;
+    text-align: end;
+}
+
+
+.item_label {
+    display: flex;
+    margin-bottom: .5rem;
+}
+
+.item_label span{
+    width: 10rem;
+}
+
+.item_label textarea{
+    resize: none;
+}
